@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repository euly go
+Coursera test repository
